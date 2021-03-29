@@ -1,9 +1,11 @@
 body{
     font-family: 'Press Start 2P', cursive;
-    background-color: #333;
+    background: linear-gradient(to top, rgba(4, 4, 4, 0.81) 30%, rgba(10, 89, 3, 0.8) 60%, rgb(27, 117, 14) 90%);
     color: rgb(33, 253, 4);
-    padding-top: 100px;
+    padding-top: 25%;
     text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 main{
     width: 850px;
